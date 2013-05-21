@@ -26,9 +26,10 @@ body{
   width:100%!important;
   background:#000!important;
 }
-.tlistthone{
+.tlistthone,
+.thead{
   width:80px!important;
-}`
+}
 
 div[style="float:right;width:11.9%;"]{
   display:none;
